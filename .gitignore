@@ -1,0 +1,7 @@
+*.obj
+*.ilk
+*.pdb
+*.pch
+*.idb
+save
+score
